@@ -1,3 +1,4 @@
+# Moved to <https://github.com/guns/haus>
 
      _______ _______ _______ _______
     |   |   |   _   |   |   |     __|
